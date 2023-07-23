@@ -27,6 +27,8 @@ FullPage.js
 Owl Carousel
 FontAwesome
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Descripción del Código JavaScript (millas.js)
 
 Este código JavaScript mejora la interacción del usuario en la página web al permitir:
@@ -42,4 +44,37 @@ Resaltado Visual del Campo de Entrada: Agrega un efecto visual al campo de entra
 Validación de Entrada: Permite solo la entrada de números válidos en el campo de millas.
 
 Este código es esencial para una experiencia de usuario más fluida y efectiva en la página web, proporcionando resultados rápidos y precisos basados en las millas ingresadas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Descripción del Estilo CSS (templatemo-style.css)
+
+
+Este archivo CSS contiene estilos para mejorar la apariencia y presentación de una página web. Los principales aspectos abordados son:
+
+Fuentes y Texto: Establece la fuente y configuración del texto para mejorar la legibilidad y el aspecto de la página.
+
+Imagen y Video: Define reglas para el tamaño máximo de imágenes y la visualización de videos en la página.
+
+Transiciones y Enlaces: Añade transiciones suaves para ciertos elementos y estilos para enlaces.
+
+Cabecera y Menú: Establece estilos para el encabezado de la página y la barra de navegación, incluyendo el logotipo y los enlaces.
+
+Íconos Sociales: Define la apariencia de los íconos de redes sociales en la página.
+
+Formularios: Establece estilos para los campos de entrada y áreas de texto en formularios.
+
+Bloques de Contenido: Define estilos para bloques de contenido como secciones de bienvenida, información personal, habilidades, testimonios, etc.
+
+Galería: Establece estilos para la presentación de imágenes en la galería.
+
+Animaciones: Define animaciones de carga para una pre-carga suave de la página.
+
+Botones: Define estilos para los botones utilizados en la página.
+
+Herramientas Visuales: Proporciona estilos para resaltar elementos, como agregar un borde verde al resaltar un campo de entrada.
+
+Medios Responsivos: Establece reglas de diseño para que la página sea responsive en diferentes dispositivos.
+
+Este archivo CSS es esencial para mejorar la apariencia visual y la experiencia del usuario en la página web. Al utilizar estos estilos, se logrará una presentación estética y atractiva para el contenido.
 
